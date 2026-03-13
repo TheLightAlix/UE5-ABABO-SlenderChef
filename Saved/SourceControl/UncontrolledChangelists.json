@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5-ABABO-SlenderChef/Content/FirstPerson/Input/IMC_Default.uasset",
+				"E:/UE5-ABABO-SlenderChef/Content/StarterContent/Shapes/Shape_Cube.uasset",
+				"E:/UE5-ABABO-SlenderChef/Content/Blueprint/BP_SliceableActor.uasset",
+				"E:/UE5-ABABO-SlenderChef/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FL/M4FEEADYWW426EZ58CBWW3.uasset",
+				"E:/UE5-ABABO-SlenderChef/Content/Blueprint/BP_Slicer.uasset",
+				"E:/UE5-ABABO-SlenderChef/Content/Blueprint/BPI_Sliceable.uasset",
+				"E:/UE5-ABABO-SlenderChef/SlenderChef/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
